@@ -14,7 +14,14 @@
 
 ## T-Tests on Suspension Coils
 
+### Lot Numbers
+![image](https://user-images.githubusercontent.com/95777297/162599680-79cbf070-0a5e-45f6-94f5-b637d4ee58fa.png)
 
+![image](https://user-images.githubusercontent.com/95777297/162599675-af631e9f-e82e-44e4-91c3-3600b950ed5f.png)
+
+![image](https://user-images.githubusercontent.com/95777297/162599686-80db2e85-e537-4937-8368-d2bfe853e1db.png)
+
+![image](https://user-images.githubusercontent.com/95777297/162599688-2f176b23-8ccf-4cd8-a06d-8d84254a0d3d.png)
 
 
 ## Study Design: MechaCar vs Competition
