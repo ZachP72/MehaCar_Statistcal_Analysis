@@ -13,7 +13,7 @@
    Of the three lots, Lot 1 and 2 both are within design specifications while having a similar mean and median. Lot 3 on the other hand go over the manufacture specs and has a lot of variance. 
 
 ## T-Tests on Suspension Coils
-
+The information below shows us that in Lot 3 there must have been a production cycle error. I would recommend checking for system failures and the suspension coils to be inspected or removed fro not meeting the quality criteria.
 ### Lot Numbers
 ![image](https://user-images.githubusercontent.com/95777297/162599680-79cbf070-0a5e-45f6-94f5-b637d4ee58fa.png)
 
@@ -25,5 +25,5 @@
 
 
 ## Study Design: MechaCar vs Competition
-
+Three of the most important factors consumers make while looking for a car is, price, MPG, horsepower. With all this data we could compare our MechaCar to other various vehicles to see where it would stand amongst them. I could make a null hypothesis stating that it is exactly the same as some of our competition or an alternative hypothesis would be the exact opposite. We would need to collect data from all the other competitor vehicles we want to compare against and use our t-test to compare the population of all types of competitor vehicles. 
 
